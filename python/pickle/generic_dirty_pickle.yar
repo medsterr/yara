@@ -13,7 +13,7 @@ rule generic_dirty_pickle_payload
 
     strings:
 
-        // Decompressed Exploit Payload Strings
+        // Decompressed Exploit Payload Strings (Example)
         /*
             94250272: \x80                                             PROTO      2
             94250274: c                                                GLOBAL     '__builtin__ exec'
