@@ -1,2 +1,2 @@
 # yara
-Repository of custom Yara rules
+Yara Rule Repository
